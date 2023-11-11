@@ -11,6 +11,7 @@ Sitio web subido directo desde el repositorio GH
 </hr>
 
 -  Primer punto
+-   **segundo ejemplo** ``de`` punto ``( . )``
 
 ```cmd
 npx gh-pages -d .
